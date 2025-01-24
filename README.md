@@ -4,11 +4,13 @@ Pre-Requisite
 
 Recommended Python : 3.11 : ```conda create --name <myenv> python=3.11```
 
-Need Library :
+Need Library : 
 1. chromadb
 2. pypdf
 3. streamlit
 4. ollama
+
+run command : ```pip install chromadb pypdf streamlit ollama```
 
 After All Library installed run app.py : ```python app.py```
 
