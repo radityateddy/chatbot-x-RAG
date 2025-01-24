@@ -3,6 +3,7 @@ Pre-Requisite
 - Pull llama3 on your command prompt / terminal : ```ollama run llama3.3```
 
 Recommended Python : 3.11 : ```conda create --name <myenv> python=3.11```
+
 Need Library :
 1. chromadb
 2. pypdf
